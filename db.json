@@ -80,6 +80,7 @@
      ],
     "reservation" : [
          {
+            "id": 0,
             "name": "test2",
             "email": "test@test.com",
             "phone": 123456789,
