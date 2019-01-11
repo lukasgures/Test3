@@ -10,17 +10,6 @@
             "name": "Poznan"
         }
     ],
-    "movies": [
-        {
-            "name": "Avengers"
-        },
-        {
-            "name": "Deadpool 2"
-        },   
-        {
-            "name": "Fantastyczne zwierzęta: Zbrodnie Grindelwalda"
-        }
-     ],
     "seances" : [
          {
             "id": 1,
