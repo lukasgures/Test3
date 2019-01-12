@@ -86,6 +86,14 @@
             "phone": 123456789,
             "seat": "2/3",
             "movie": "Test"
-         }
+         },
+        {
+            "id": 1,
+            "name": "Lukasz",
+            "email": "lukasgures@gmail.com",
+            "phone": 123456789,
+            "seat": "2/3",
+            "movie": "Avengers"
+         },
      ]
 }
